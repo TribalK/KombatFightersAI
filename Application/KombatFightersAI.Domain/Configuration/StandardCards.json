@@ -1,0 +1,90 @@
+[
+    {
+        "card_name": "Regenerate",
+        "card_damage": 0,
+        "card_energy": -15,
+        "card_range": [
+            [0, 0, 0],
+            [0, 1, 0],
+            [0, 0, 0]
+        ],
+        "card_keyboard_letter": "Q"
+    },
+    {
+        "card_name": "Move Up",
+        "card_damage": 0,
+        "card_energy": 0,
+        "card_range": [
+            [0, 1, 0],
+            [0, 0, 0],
+            [0, 0, 0]
+        ],
+        "card_keyboard_letter": "W"
+    },
+    {
+        "card_name": "Guard",
+        "card_damage": -15,
+        "card_energy": 0,
+        "card_range": [
+            [0, 0, 0],
+            [0, 1, 0],
+            [0, 0, 0]
+        ],
+        "card_keyboard_letter": "E"
+    },
+    {
+        "card_name": "Perfect Guard",
+        "card_damage": -100,
+        "card_energy": 20,
+        "card_range": [
+            [0, 0, 0],
+            [0, 1, 0],
+            [0, 0, 0]
+        ],
+        "card_keyboard_letter": "R"
+    },
+    {
+        "card_name": "Move Left",
+        "card_damage": 0,
+        "card_energy": 0,
+        "card_range": [
+            [0, 0, 0],
+            [1, 0, 0],
+            [0, 0, 0]
+        ],
+        "card_keyboard_letter": "A"
+    },
+    {
+        "card_name": "Move Down",
+        "card_damage": 0,
+        "card_energy": 0,
+        "card_range": [
+            [0, 0, 0],
+            [0, 0, 0],
+            [0, 1, 0]
+        ],
+        "card_keyboard_letter": "S"
+    },
+    {
+        "card_name": "Move Right",
+        "card_damage": 0,
+        "card_energy": 0,
+        "card_range": [
+            [0, 0, 0],
+            [0, 0, 1],
+            [0, 0, 0]
+        ],
+        "card_keyboard_letter": "D"
+    },
+    {
+        "card_name": "Burst Limit",
+        "card_damage": 80,
+        "card_energy": 80,
+        "card_range": [
+            [0, 0, 0],
+            [0, 1, 0],
+            [0, 0, 0]
+        ],
+        "card_keyboard_letter": "F"
+    }
+]

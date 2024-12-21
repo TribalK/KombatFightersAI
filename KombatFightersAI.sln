@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{BC44412D-78E5-403F-B685-D77347F5147B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{0DC8783A-5457-4491-8467-0258811C686D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KombatFightersAI.Core", "API\KombatFightersAI.Core.csproj", "{DBFEACF0-C968-4DDC-9C30-A4DD01652FD2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KombatFightersAI.Domain", "Application\KombatFightersAI.Domain\KombatFightersAI.Domain.csproj", "{1EDBB4E2-D802-4DC2-86AB-2B7B28608DCE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KombatFightersAI.Services", "Application\KombatFightersAI.Services\KombatFightersAI.Services.csproj", "{C4FCE896-1258-4D87-AA25-9725B57DDD4D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{ABDD84B5-9072-4E24-A5DA-8DB175C1A733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KombatFightersAI.Test", "Tests\KombatFightersAI.Test\KombatFightersAI.Test.csproj", "{E573F205-8B33-482B-862A-9B0C3782001F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBFEACF0-C968-4DDC-9C30-A4DD01652FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBFEACF0-C968-4DDC-9C30-A4DD01652FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBFEACF0-C968-4DDC-9C30-A4DD01652FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBFEACF0-C968-4DDC-9C30-A4DD01652FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EDBB4E2-D802-4DC2-86AB-2B7B28608DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDBB4E2-D802-4DC2-86AB-2B7B28608DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDBB4E2-D802-4DC2-86AB-2B7B28608DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDBB4E2-D802-4DC2-86AB-2B7B28608DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4FCE896-1258-4D87-AA25-9725B57DDD4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4FCE896-1258-4D87-AA25-9725B57DDD4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4FCE896-1258-4D87-AA25-9725B57DDD4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4FCE896-1258-4D87-AA25-9725B57DDD4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E573F205-8B33-482B-862A-9B0C3782001F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E573F205-8B33-482B-862A-9B0C3782001F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E573F205-8B33-482B-862A-9B0C3782001F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E573F205-8B33-482B-862A-9B0C3782001F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DBFEACF0-C968-4DDC-9C30-A4DD01652FD2} = {BC44412D-78E5-403F-B685-D77347F5147B}
+		{1EDBB4E2-D802-4DC2-86AB-2B7B28608DCE} = {0DC8783A-5457-4491-8467-0258811C686D}
+		{C4FCE896-1258-4D87-AA25-9725B57DDD4D} = {0DC8783A-5457-4491-8467-0258811C686D}
+		{E573F205-8B33-482B-862A-9B0C3782001F} = {ABDD84B5-9072-4E24-A5DA-8DB175C1A733}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B582E0CE-685D-496E-9E50-0E6FA72A264A}
+	EndGlobalSection
+EndGlobal

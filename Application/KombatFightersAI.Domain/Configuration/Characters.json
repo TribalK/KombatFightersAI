@@ -1,0 +1,502 @@
+[
+    {
+        "character_id": 0,
+        "character_name": "Evil Ryu",
+        "attack_cards": [
+            {
+                "card_name": "Shinku Hadouken",
+                "card_damage": 45,
+                "card_energy": 35,
+                "card_range": [
+                    [0, 0, 0],
+                    [1, 0, 1],
+                    [0, 0, 0]
+                ],
+                "card_keyboard_letter": "T"
+            },
+            {
+                "card_name": "Crystal Crush",
+                "card_damage": 25,
+                "card_energy": 25,
+                "card_range": [
+                    [0, 0, 0],
+                    [0, 1, 0],
+                    [1, 1, 1]
+                ],
+                "card_keyboard_letter": "Y"
+            },
+            {
+                "card_name": "Storm Fist Shroyuken",
+                "card_damage": 30,
+                "card_energy": 35,
+                "card_range": [
+                    [1, 0, 1],
+                    [1, 0, 1],
+                    [1, 0, 1]
+                ],
+                "card_keyboard_letter": "G"
+            },
+            {
+                "card_name": "Hurricane Kick",
+                "card_damage": 20,
+                "card_energy": 20,
+                "card_range": [
+                    [1, 1, 1],
+                    [1, 1, 1],
+                    [1, 1, 1]
+                ],
+                "card_keyboard_letter": "H"
+            }
+        ]
+    },
+    {
+        "character_id": 1,
+        "character_name": "Metal Sonic",
+        "attack_cards": [
+            {
+                "card_name": "Chaos Emerald",
+                "card_damage": 50,
+                "card_energy": 40,
+                "card_range": [
+                    [0, 0, 0],
+                    [0, 1, 0],
+                    [0, 1, 0]
+                ],
+                "card_keyboard_letter": "T"
+            },
+            {
+                "card_name": "Star Destroyer",
+                "card_damage": 35,
+                "card_energy": 45,
+                "card_range": [
+                    [1, 1, 1],
+                    [1, 1, 1],
+                    [0, 0, 0]
+                ],
+                "card_keyboard_letter": "Y"
+            },
+            {
+                "card_name": "Obelisk Eye",
+                "card_damage": 15,
+                "card_energy": 20,
+                "card_range": [
+                    [0, 0, 0],
+                    [1, 1, 1],
+                    [1, 1, 1]
+                ],
+                "card_keyboard_letter": "G"
+            },
+            {
+                "card_name": "Sundown Smash",
+                "card_damage": 25,
+                "card_energy": 25,
+                "card_range": [
+                    [1, 0, 1],
+                    [1, 0, 1],
+                    [1, 0, 1]
+                ],
+                "card_keyboard_letter": "H"
+            }
+        ]
+    },
+    {
+        "character_id": 2,
+        "character_name": "Master Chief",
+        "attack_cards": [
+            {
+                "card_name": "Energy Sword",
+                "card_damage": 50,
+                "card_energy": 50,
+                "card_range": [
+                    [0, 0, 0],
+                    [1, 0, 1],
+                    [0, 0, 0]
+                ],
+                "card_keyboard_letter": "T"
+            },
+            {
+                "card_name": "Battle Rifle",
+                "card_damage": 20,
+                "card_energy": 15,
+                "card_range": [
+                    [0, 0, 0],
+                    [1, 1, 1],
+                    [1, 1, 1]
+                ],
+                "card_keyboard_letter": "Y"
+            },
+            {
+                "card_name": "Plasma Grenade",
+                "card_damage": 35,
+                "card_energy": 45,
+                "card_range": [
+                    [0, 1, 0],
+                    [1, 1, 1],
+                    [0, 1, 0]
+                ],
+                "card_keyboard_letter": "G"
+            },
+            {
+                "card_name": "Dual Wield",
+                "card_damage": 25,
+                "card_energy": 20,
+                "card_range": [
+                    [1, 0, 1],
+                    [0, 1, 0],
+                    [1, 0, 1]
+                ],
+                "card_keyboard_letter": "H"
+            }
+        ]
+    },
+    {
+        "character_id": 3,
+        "character_name": "Jaguar",
+        "attack_cards": [
+            {
+                "card_name": "Vindication",
+                "card_damage": 40,
+                "card_energy": 40,
+                "card_range": [
+                    [0, 1, 0],
+                    [0, 1, 0],
+                    [0, 1, 0]
+                ],
+                "card_keyboard_letter": "T"
+            },
+            {
+                "card_name": "Jaguar Leap",
+                "card_damage": 35,
+                "card_energy": 25,
+                "card_range": [
+                    [0, 0, 0],
+                    [1, 1, 1],
+                    [0, 0, 0]
+                ],
+                "card_keyboard_letter": "Y"
+            },
+            {
+                "card_name": "Shadow Strike",
+                "card_damage": 20,
+                "card_energy": 20,
+                "card_range": [
+                    [1, 1, 1],
+                    [0, 0, 0],
+                    [1, 1, 1]
+                ],
+                "card_keyboard_letter": "G"
+            },
+            {
+                "card_name": "Rising Blade",
+                "card_damage": 25,
+                "card_energy": 30,
+                "card_range": [
+                    [1, 0, 1],
+                    [1, 0, 1],
+                    [1, 0, 1]
+                ],
+                "card_keyboard_letter": "H"
+            }
+        ]
+    },
+    {
+        "character_id": 4,
+        "character_name": "Fulgore",
+        "attack_cards": [
+            {
+                "card_name": "Heavy Metal",
+                "card_damage": 40,
+                "card_energy": 40,
+                "card_range": [
+                    [0, 0, 0],
+                    [1, 0, 1],
+                    [1, 0, 1]
+                ],
+                "card_keyboard_letter": "T"
+            },
+            {
+                "card_name": "Red Death",
+                "card_damage": 25,
+                "card_energy": 30,
+                "card_range": [
+                    [1, 0, 1],
+                    [1, 1, 1],
+                    [1, 0, 1]
+                ],
+                "card_keyboard_letter": "Y"
+            },
+            {
+                "card_name": "System Surge",
+                "card_damage": 25,
+                "card_energy": 20,
+                "card_range": [
+                    [0, 0, 0],
+                    [1, 1, 1],
+                    [0, 0, 0]
+                ],
+                "card_keyboard_letter": "G"
+            },
+            {
+                "card_name": "Spark Storm",
+                "card_damage": 30,
+                "card_energy": 35,
+                "card_range": [
+                    [1, 1, 1],
+                    [0, 1, 0],
+                    [1, 1, 1]
+                ],
+                "card_keyboard_letter": "H"
+            }
+        ]
+    },
+    {
+        "character_id": 5,
+        "character_name": "Sorceress",
+        "attack_cards": [
+            {
+                "card_name": "Summon Archangel",
+                "card_damage": 40,
+                "card_energy": 40,
+                "card_range": [
+                    [0, 0, 0],
+                    [1, 1, 1],
+                    [0, 0, 0]
+                ],
+                "card_keyboard_letter": "T"
+            },
+            {
+                "card_name": "Blizzard",
+                "card_damage": 30,
+                "card_energy": 40,
+                "card_range": [
+                    [1, 0, 1],
+                    [1, 1, 1],
+                    [1, 0, 1]
+                ],
+                "card_keyboard_letter": "Y"
+            },
+            {
+                "card_name": "Orb Explosion",
+                "card_damage": 25,
+                "card_energy": 20,
+                "card_range": [
+                    [0, 1, 0],
+                    [1, 1, 1],
+                    [0, 1, 0]
+                ],
+                "card_keyboard_letter": "G"
+            },
+            {
+                "card_name": "Pyrostorm",
+                "card_damage": 20,
+                "card_energy": 15,
+                "card_range": [
+                    [1, 1, 1],
+                    [0, 0, 0],
+                    [1, 1, 1]
+                ],
+                "card_keyboard_letter": "H"
+            }
+        ]
+    },
+    {
+        "character_id": 6,
+        "character_name": "Illidan",
+        "attack_cards": [
+            {
+                "card_name": "Inferno",
+                "card_damage": 50,
+                "card_energy": 50,
+                "card_range": [
+                    [0, 0, 0],
+                    [0, 1, 0],
+                    [1, 1, 1]
+                ],
+                "card_keyboard_letter": "T"
+            },
+            {
+                "card_name": "Call of the Wild",
+                "card_damage": 15,
+                "card_energy": 20,
+                "card_range": [
+                    [1, 1, 1],
+                    [1, 1, 0],
+                    [1, 1, 1]
+                ],
+                "card_keyboard_letter": "Y"
+            },
+            {
+                "card_name": "Vorpal Glaives",
+                "card_damage": 30,
+                "card_energy": 25,
+                "card_range": [
+                    [1, 0, 1],
+                    [0, 1, 0],
+                    [1, 0, 1]
+                ],
+                "card_keyboard_letter": "G"
+            },
+            {
+                "card_name": "Wake of Arrows",
+                "card_damage": 25,
+                "card_energy": 20,
+                "card_range": [
+                    [0, 1, 0],
+                    [0, 1, 0],
+                    [0, 1, 0]
+                ],
+                "card_keyboard_letter": "H"
+            }
+        ]
+    },
+    {
+        "character_id": 7,
+        "character_name": "Sephiroth",
+        "attack_cards": [
+            {
+                "card_name": "Limit Break",
+                "card_damage": 50,
+                "card_energy": 50,
+                "card_range": [
+                    [1, 0, 1],
+                    [0, 1, 0],
+                    [0, 0, 0]
+                ],
+                "card_keyboard_letter": "T"
+            },
+            {
+                "card_name": "Shadow Flare",
+                "card_damage": 15,
+                "card_energy": 15,
+                "card_range": [
+                    [1, 1, 1],
+                    [1, 1, 1],
+                    [1, 1, 1]
+                ],
+                "card_keyboard_letter": "Y"
+            },
+            {
+                "card_name": "Shock Nova",
+                "card_damage": 25,
+                "card_energy": 30,
+                "card_range": [
+                    [1, 1, 1],
+                    [1, 1, 1],
+                    [0, 0, 0]
+                ],
+                "card_keyboard_letter": "G"
+            },
+            {
+                "card_name": "Heartless Angel",
+                "card_damage": 30,
+                "card_energy": 20,
+                "card_range": [
+                    [0, 1, 0],
+                    [1, 0, 1],
+                    [0, 1, 0]
+                ],
+                "card_keyboard_letter": "H"
+            }
+        ]
+    },
+    {
+        "character_id": 8,
+        "character_name": "Steve Austin",
+        "attack_cards": [
+            {
+                "card_name": "Stone Cold Stunner",
+                "card_damage": 60,
+                "card_energy": 35,
+                "card_range": [
+                    [0, 0, 0],
+                    [0, 1, 0],
+                    [0, 0, 0]
+                ],
+                "card_keyboard_letter": "T"
+            },
+            {
+                "card_name": "Tables, Ladders, and Chairs",
+                "card_damage": 20,
+                "card_energy": 15,
+                "card_range": [
+                    [1, 0, 1],
+                    [1, 1, 1],
+                    [0, 0, 0]
+                ],
+                "card_keyboard_letter": "Y"
+            },
+            {
+                "card_name": "Overdose",
+                "card_damage": 20,
+                "card_energy": 25,
+                "card_range": [
+                    [0, 0, 0],
+                    [1, 1, 1],
+                    [1, 1, 1]
+                ],
+                "card_keyboard_letter": "G"
+            },
+            {
+                "card_name": "Screaming Skull",
+                "card_damage": 35,
+                "card_energy": 25,
+                "card_range": [
+                    [1, 1, 1],
+                    [0, 0, 0],
+                    [0, 0, 0]
+                ],
+                "card_keyboard_letter": "H"
+            }
+        ]
+    },
+    {
+        "character_id": 9,
+        "character_name": "Scorpion",
+        "attack_cards": [
+            {
+                "card_name": "Hell Beast",
+                "card_damage": 50,
+                "card_energy": 50,
+                "card_range": [
+                    [0, 0, 0],
+                    [1, 0, 1],
+                    [0, 0, 0]
+                ],
+                "card_keyboard_letter": "T"
+            },
+            {
+                "card_name": "Black Axe",
+                "card_damage": 20,
+                "card_energy": 15,
+                "card_range": [
+                    [1, 0, 1],
+                    [1, 1, 1],
+                    [1, 0, 1]
+                ],
+                "card_keyboard_letter": "Y"
+            },
+            {
+                "card_name": "Flaming Skull",
+                "card_damage": 35,
+                "card_energy": 40,
+                "card_range": [
+                    [0, 0, 0],
+                    [0, 1, 0],
+                    [1, 1, 1]
+                ],
+                "card_keyboard_letter": "G"
+            },
+            {
+                "card_name": "Spirit of Spears",
+                "card_damage": 25,
+                "card_energy": 20,
+                "card_range": [
+                    [1, 1, 1],
+                    [0, 1, 0],
+                    [0, 0, 0]
+                ],
+                "card_keyboard_letter": "H"
+            }
+        ]
+    }
+]
